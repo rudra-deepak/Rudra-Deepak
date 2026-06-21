@@ -8,7 +8,7 @@
 
 
 
-<h2 data-importer="text" align="left">This is Rudra Deepak . 🚀 AI/ML Enthusiast |</h2>
+<h3 data-importer="text" align="left">This is Rudra Deepak . 🚀 AI/ML Enthusiast |</h3>
 
 
 
