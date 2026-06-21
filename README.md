@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rudradeepak&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -6,9 +10,7 @@
 
 <h2 data-importer="text" align="left">This is Rudra Deepak . 🚀 AI/ML Enthusiast |</h2>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=rudradeepak&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 ###
 
