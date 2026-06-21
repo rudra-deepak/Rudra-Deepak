@@ -47,13 +47,15 @@
 
 ###
 
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
+## 📫 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/rudra-deepak-0272723b1/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80">
+</a>
+<a href="rudra763.org.in@gmail.com" target="_blank">
+  <img src="(https://www.flaticon.com/free-animated-icon/email_8717939)" width="80">
+</a>
+</p>
 
 
 ## 📊 GitHub Stats
