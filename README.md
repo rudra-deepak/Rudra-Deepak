@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rudradeepak&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 <p data-importer="text" align="left">This is Rudra Deepak . 🚀 AI/ML Enthusiast |</p>
 
 ###
