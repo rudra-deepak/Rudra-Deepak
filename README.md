@@ -65,7 +65,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NausheenFaiyaz&theme=tokyonight">
   
