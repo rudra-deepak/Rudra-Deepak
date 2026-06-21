@@ -69,6 +69,3 @@
 
 
 ###
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/YOUR_USERNAME/rudra-deepak/blob/output/github-contribution-grid-snake.svg)
