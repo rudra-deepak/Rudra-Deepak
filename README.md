@@ -85,10 +85,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudra-deepak&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-deepak&layout=compact&theme=tokyonight&cache_seconds=1)
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="500">
 
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudra-deepak&theme=tokyonight)
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="500">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudra-deepak&theme=tokyonight&utcOffset=8">
 
