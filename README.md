@@ -63,10 +63,12 @@
 </a>
 <a href="https://www.instagram.com/yi.rudra/" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80" alt="Instagram">
-</a> </p>
-
+</a> 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="180">
 <br><br>
+</p>
+
+
 
 
 ## 📊 GitHub Stats
