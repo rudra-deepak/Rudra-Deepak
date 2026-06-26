@@ -61,10 +61,9 @@
 <a href="https://www.linkedin.com/in/rudra-deepak-0272723b1/" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80">
 </a>
-<a href="rudra763.org.in@gmail.com" target="_blank">
-  <img src="(https://www.flaticon.com/free-animated-icon/email_8717939)" width="80">
+  <a href="mailto:rudra763.org.in@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="80" alt="Email">
 </a>
-</p>
 
 
 ## 📊 GitHub Stats
