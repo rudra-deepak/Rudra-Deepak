@@ -3,8 +3,8 @@
 </p>
  
 <h1 data-importer="text" align="left">
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Hi+%F0%9F%91%8B+I'm+Rudra+Deepak;AI%2FML+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=42&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+What's+up%3F" alt="Typing SVG" />
 </p>
 ###
 
