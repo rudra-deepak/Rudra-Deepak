@@ -10,7 +10,7 @@
 
 
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=100000&color=58A6FF&vCenter=true&width=700&lines=This+is+Rudra+Deepak+%F0%9F%9A%80+AI%2FML+Enthusiast+%7C" alt="Typing SVG" />
 </p>
 
