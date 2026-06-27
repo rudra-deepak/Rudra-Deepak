@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=rudradeepak&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
  
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<h1 data-importer="text" align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Rudra+Deepak;AI%2FML+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 ###
 
@@ -44,12 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="62" alt="cplusplus logo"  />
 </div>
 
-######
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
 
 ###
 
@@ -85,8 +79,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudra-deepak&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-deepak&layout=compact&theme=tokyonight&cache_seconds=1)
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="300">
-
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudra-deepak&theme=tokyonight)
 
