@@ -6,11 +6,13 @@
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=42&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+What's+up%3F" alt="Typing SVG" />
 </p>
-###
 
 
 
-<h3 data-importer="text" align="left">This is Rudra Deepak . 🚀 AI/ML Enthusiast |</h3>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=100000&color=58A6FF&vCenter=true&width=700&lines=This+is+Rudra+Deepak+%F0%9F%9A%80+AI%2FML+Enthusiast+%7C" alt="Typing SVG" />
+</p>
 
 
 
