@@ -92,3 +92,8 @@
 
 
 ###
+
+
+![Snake animation](https://raw.githubusercontent.com/rudra-deepak/rudra-deepak/output/github-contribution-grid-snake-dark.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rudra-deepak&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rudra-deepak&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
