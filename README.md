@@ -81,7 +81,7 @@
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-deepak&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-deepak&layout=compact&theme=tokyonight&cache_seconds=1)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudra-deepak&theme=tokyonight)
 
