@@ -284,18 +284,7 @@ AI-powered emergency response concept designed for rapid assistance during criti
 
 ---
 
-<div align="center">
 
-## 📈 ACTIVITY
-
-<!-- 100% Reliable Raw SVG / GitHub Proxy Embed -->
-<img
-  src="https://ghchart.rshah.org/40c463/rudra-deepak"
-  width="95%"
-  alt="rudra-deepak's GitHub Activity Graph"
-/>
-
-</div>
 
 ---
 
