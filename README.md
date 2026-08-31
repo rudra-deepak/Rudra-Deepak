@@ -239,32 +239,37 @@ AI-powered emergency response concept designed for rapid assistance during criti
 </table>
 
 ---
-
 <div align="center">
 
 ## 📊 GITHUB ANALYTICS
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=rudra-deepak&show_icons=true&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="GitHub Stats"
-/>
+<br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-deepak&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Top Languages"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-deepak&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF"
+  width="70%"
+  alt="GitHub Streak"
 />
 
 <br><br>
 
+<table>
+<tr>
+
+<td align="center">
+
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-deepak&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF"
-  alt="GitHub Streak"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-deepak&theme=tokyonight"
+  width="100%"
+  alt="GitHub Profile Details"
 />
 
+</td>
+
+</tr>
+</table>
+
 </div>
----
 
 <div align="center">
 
