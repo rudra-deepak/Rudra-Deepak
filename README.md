@@ -260,7 +260,10 @@ AI-powered emergency response concept designed for rapid assistance during criti
 
 ## 🐍 CONTRIBUTION SNAKE
 
-<img src="https://raw.githubusercontent.com/rudra-deepak/rudra-deepak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img 
+  src="https://raw.githubusercontent.com/rudra-deepak/rudra-deepak/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
@@ -270,7 +273,11 @@ AI-powered emergency response concept designed for rapid assistance during criti
 
 ## 📈 ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-deepak&bg_color=0D1117&color=00F7FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-deepak&theme=github-compact&hide_border=true"
+  width="95%"
+  alt="Rudra Deepak's GitHub Activity Graph"
+/>
 
 </div>
 
