@@ -288,10 +288,11 @@ AI-powered emergency response concept designed for rapid assistance during criti
 
 ## 📈 ACTIVITY
 
+<!-- 100% Reliable Raw SVG / GitHub Proxy Embed -->
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-deepak&theme=github-compact&hide_border=true"
+  src="https://ghchart.rshah.org/40c463/rudra-deepak"
   width="95%"
-  alt="Rudra Deepak's GitHub Activity Graph"
+  alt="rudra-deepak's GitHub Activity Graph"
 />
 
 </div>
