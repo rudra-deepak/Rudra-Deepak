@@ -244,16 +244,26 @@ AI-powered emergency response concept designed for rapid assistance during criti
 
 ## 📊 GITHUB ANALYTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=rudra-deepak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=58A6FF&text_color=FFFFFF" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=rudra-deepak&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="GitHub Stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-deepak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-deepak&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Top Languages"
+/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-deepak&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-deepak&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF"
+  alt="GitHub Streak"
+/>
 
 </div>
-
 ---
 
 <div align="center">
