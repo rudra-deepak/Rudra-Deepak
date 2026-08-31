@@ -1,93 +1,307 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=rudradeepak&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
- 
-<h1 data-importer="text" align="left">
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=42&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+What's+up%3F" alt="Typing SVG" />
-</p>
+<div align="center">
 
+# ⚡ RUDRA DEEPAK
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Creative+Builder+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9A%A1" alt="Typing SVG" />
 
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=100000&color=58A6FF&vCenter=true&width=700&lines=This+is+Rudra+Deepak+%F0%9F%9A%80+AI%2FML+Enthusiast+%7C" alt="Typing SVG" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=rudradeepak&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge" alt="Profile Views"/>
 
+<br><br>
 
+<a href="https://github.com/rudra-deepak">
+<img src="https://img.shields.io/github/followers/rudra-deepak?label=Followers&style=for-the-badge&color=00f7ff&labelColor=0d1117" />
+</a>
 
-###
+<a href="https://github.com/rudra-deepak?tab=repositories">
+<img src="https://img.shields.io/github/stars/rudra-deepak?label=Stars&style=for-the-badge&color=58a6ff&labelColor=0d1117" />
+</a>
 
-<h2 data-importer="text" align="left">🤠 About me</h2>
-
-###
-
-<p data-importer="text" align="center">✨ Creating bugs since 2006<br>📚 I'm currently learning B.Tech in AIML<br>🎯 Goals: Nothing Much<br>🎲 Fun fact:  📍Volunteer at @ AWS Summit Bengaluru 2026</p>
-
-###
-
-<h2 data-importer="text" align="left">👨🏻‍💻 I code with</h2>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="62" alt="javascript logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="62" alt="react logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="62" alt="nodejs logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="62" alt="html5 logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="62" alt="css logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="62" alt="tailwindcss logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="62" alt="python logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="62" alt="cplusplus logo"  />
 </div>
 
+---
 
-###
+<div align="center">
 
+## 🧠 ABOUT ME
 
-###
+</div>
 
-## 📫 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/rudra-deepak-0272723b1/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👨🏻‍💻 Who am I?
+
+```yaml
+name: Rudra Deepak
+role: AI/ML Enthusiast
+education: B.Tech AIML
+focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full Stack Development
+  - DSA
+  - Creative Projects
+
+mindset: "Build. Break. Learn. Repeat. 🚀"
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Currently
+
+```text
+🤖 Exploring AI & Machine Learning
+💻 Building full-stack applications
+🧠 Learning DSA & problem solving
+🚀 Creating AI-powered projects
+🎨 Experimenting with UI/UX
+☕ Running on code & caffeine
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+> **"I don't just learn technology — I build with it."** ⚡
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ TECH STACK
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,mysql" />
+
+### ⚛️ Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite" />
+
+### 🤖 AI / ML & Tools
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,git,github,vscode" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 WHAT I BUILD
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🤖 AI Applications
+
+Building intelligent applications powered by modern AI models.
+
+**AI Chatbots**
+**AI Study Tools**
+**Computer Vision**
+**Generative AI**
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Web Applications
+
+Modern and interactive applications with clean UI/UX.
+
+**React**
+**Node.js**
+**REST APIs**
+**Responsive Design**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧪 Experimental Projects
+
+I love turning crazy ideas into working prototypes.
+
+**Gesture Control**
+**3D Experiences**
+**AI × Web**
+**Automation**
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 FEATURED PROJECTS
+
+</div>
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 CrazyPT
+
+AI-powered chatbot built with a modern AI backend.
+
+**Stack**
+
+`Python` `Flask` `Gemini` `MongoDB`
+
+🔹 AI conversations
+🔹 User authentication
+🔹 Community system
+🔹 Persistent chat history
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 TechSimplify AI
+
+AI-powered learning platform designed to make technical concepts easier to understand.
+
+**Stack**
+
+`Python` `Streamlit` `Gemini` `Pandas`
+
+🔹 AI Tutor
+🔹 Adaptive Quiz
+🔹 AI Viva
+🔹 Coding Arena
+🔹 Debugging Lab
+🔹 XP & Gamification
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚗 CarVerse
+
+Interactive 3D car viewer controlled using hand gestures.
+
+**Stack**
+
+`React` `Vite` `Three.js` `MediaPipe`
+
+🔹 Hand tracking
+🔹 Gesture interaction
+🔹 3D visualization
+🔹 Interactive controls
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🆘 AI Emergency Response
+
+AI-powered emergency response concept designed for rapid assistance during critical situations.
+
+**Focus**
+
+`AI` `Automation` `Maps` `Emergency Response`
+
+🔹 Emergency detection
+🔹 Smart assistance
+🔹 Location-based response
+🔹 Real-time communication
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB ANALYTICS
+
+<img src="https://github-readme-stats.vercel.app/api?username=rudra-deepak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=58A6FF&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-deepak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-deepak&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/rudra-deepak/rudra-deepak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra-deepak&bg_color=0D1117&color=00F7FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 CONNECT WITH ME
+
+<a href="https://www.linkedin.com/in/rudra-deepak-0272723b1/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
-<a href="https://www.instagram.com/yi.rudra/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80" alt="Instagram">
-</a> 
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="200">
-<br><br>
-</p>
+<a href="https://www.instagram.com/yi.rudra/">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF4ECD"/>
+</a>
 
+<a href="https://github.com/rudra-deepak">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
 
+</div>
 
+<br>
 
-## 📊 GitHub Stats
+<div align="center">
 
-<div align="left">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:5865F2&height=120&section=footer"/>
 
+### ⚡ BUILD SOMETHING THAT SHOULDN'T EXIST.
 
-  
-</div> 
-<img data-importer="image" align="right" height="205" src="2025-06-14_bb0e695d-4cb3-8d69-3caa-54e8ce3cd5c4-main.jpg"  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+building+%F0%9F%9A%80;Keep+learning+%F0%9F%A7%A0;See+you+in+the+next+commit+%F0%9F%94%A5" />
 
-
-
-
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudra-deepak&theme=tokyonight)
-
-
-
-
-
-###
-
+</div>
